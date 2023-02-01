@@ -11,8 +11,8 @@
 ## 개발 인원
 
 - [yjs6156](https://github.com/yjs6156)
-- [dongry-lee](https://github.com/dongry-lee)
-- [MINSEOMIA](https://github.com/MINSEOMIA)
+- [dongry-lee](https://github.com/dongry-lee) <>
+- [MINSEOMIA](https://github.com/MINSEOMIA) <팀장>
 - [dorumamu](https://github.com/dorumamu)
 
 ## 개발 환경
