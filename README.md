@@ -11,7 +11,7 @@
 ## 개발 인원
 
 - [yjs6156](https://github.com/yjs6156)
-- [dongry-lee](https://github.com/dongry-lee) <>
+- [dongry-lee](https://github.com/dongry-lee) <스크럼 마스터>
 - [MINSEOMIA](https://github.com/MINSEOMIA) <팀장>
 - [dorumamu](https://github.com/dorumamu)
 
