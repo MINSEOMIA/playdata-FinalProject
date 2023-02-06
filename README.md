@@ -64,7 +64,7 @@ https://www.figma.com/file/2k5LM7vJIgZkTaAPUKbmDj/Oais?node-id=6%3A70
 
 
 
-## 협업 방식 :  애자일 스크럼
+## 협업 방식 : Agile 스크럼
 스프린트 & 백로그 칸반보드 : https://github.com/users/dongry-lee/projects/1<br>
 
 ### 스프린트
