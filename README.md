@@ -21,8 +21,8 @@
 - DB:         MySQL<br>
 - framework:  spring boot(JPA, JSP)<br>
 - IDE: IntelliJ
-- html,css,js
-
+- Front-End: html,css,js
+- 협업 및 일정관리: Github,Git-desktop, Slack, Discord, Agile Process(Scrum)
 ## 배포
 server - AWS/EC2<br>
 DB - AWS/RDS<br>
